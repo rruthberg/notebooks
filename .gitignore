@@ -7,4 +7,5 @@
 *.jpg
 *.jpeg
 data/*
+plot_out/*
 .ipynb_checkpoints/*
